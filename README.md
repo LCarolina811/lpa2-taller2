@@ -4,7 +4,8 @@ Sistema completo de generación de facturas, utilizando [FastAPI](https://fastap
 
 ## Autor
 
-- Nombre del Estudiante - @perfil_de_github
+- Luz Carolina Hernandez Vega
+https://github.com/LCarolina811
 
 ## Descripción del Proyecto
 
